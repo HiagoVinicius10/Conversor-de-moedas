@@ -10,6 +10,7 @@
 
 body {
     background-image: url(https://exchangenow.net/upload/cotacao_de_moedas.png);
+    background-size: cover;
 }
 
 .logo {
